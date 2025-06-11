@@ -23,7 +23,7 @@ An autonomous robot that detects and avoids obstacles using ultrasonic and IR se
 
 ## 🛠️ Circuit Diagram
 
-*(Include a wiring diagram image or link here)*
+
 
 ## 🧠 Arduino Code
 
@@ -31,7 +31,7 @@ Code is available in the `arduino/` folder.
 
 ## 📸 Robot Demo
 
-*(Upload a photo or video if available in the `images/` folder)*
+
 
 ## 🧪 Status
 
