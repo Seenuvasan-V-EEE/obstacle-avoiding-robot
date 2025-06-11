@@ -1,0 +1,10 @@
+1. Arduino UNO
+2. HC-SR04 Ultrasonic Sensor
+3. IR Sensors x2
+4. L298N Motor Driver Module
+5. DC Motors x2
+6. SG90 Servo Motor
+7. Wheels and Robot Chassis
+8. 9V Battery / Power Bank
+9. Jumper wires and breadboard
+10. Mounting accessories (tape, screws)
